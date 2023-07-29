@@ -19,3 +19,7 @@
 ```py
 python3 tgos.py -u <url> -w <wordlist> -m HEAD -t 100
 ```
+## 📜 Credits :
+---
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elmehdi-chbani/)
