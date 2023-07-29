@@ -11,7 +11,7 @@
 ``` 
   sudo apt install python3
   git clone https://github.com/SegmaSec/TGOS
-  cd Haruma
+  cd TGOS
   pip install -r requirements.txt
 ```
 ## :pushpin: Usage :
