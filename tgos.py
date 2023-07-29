@@ -14,20 +14,20 @@ DEEPPINK=255,20,147
 CYAN=0,238,238
 WHITE=255, 255, 255
 print(color("""
-                       ██╗  ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ███╗ █████╗
-                       ██║  ██║██╔══██╗██╔══██╗██║   ██║████╗ ████║██╔══██╗
-                       ███████║███████║██████╔╝██║   ██║██╔████╔██║███████║
-                       ██╔══██║██╔══██║██╔══██╗██║   ██║██║╚██╔╝██║██╔══██║
-                       ██║  ██║██║  ██║██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║
-                       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
-		                                                          "By: SegmaSec" """,(WHITE)))
+                ████████╗ ██████╗  ██████╗ ███████╗      ██████╗  ██████╗ ██████╗ ██████╗ 
+                ╚══██╔══╝██╔════╝ ██╔═══██╗██╔════╝      ╚════██╗██╔═████╗╚════██╗╚════██╗
+                   ██║   ██║  ███╗██║   ██║███████╗█████╗ █████╔╝██║██╔██║ █████╔╝ █████╔╝
+                   ██║   ██║   ██║██║   ██║╚════██║╚════╝██╔═══╝ ████╔╝██║██╔═══╝  ╚═══██╗
+                   ██║   ╚██████╔╝╚██████╔╝███████║      ███████╗╚██████╔╝███████╗██████╔╝
+                   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝      ╚══════╝ ╚═════╝ ╚══════╝╚═════╝                                                                         
+		                                                             "By: SegmaSec" """,(WHITE)))
 print(color("		        [~]",(WHITE)) + color(" The Best Tools For Brute Forcing Subdomain!!!",(CYAN)))
 print(color("		        [~]",(WHITE)) + color(" Usage: python3 haruma.py -u <url> -w <wordlist> -m HEAD -t 100",(CYAN)))
-print(color("		--------------",(CYAN))+color("Social Media",(WHITE))+color("---------------",(CYAN)))
-print(color("		|                                       |",(CYAN)))
-print(color("		|",(CYAN))+color("  https://discord.gg/alx-segmasec      ",(ORANGE))+color("|",(CYAN)))
-print(color("		|",(CYAN))+color("  https://github.com/SegmaSec          ",(ORANGE))+color("|",(CYAN)))
-print(color("		|_______________________________________|\n",(CYAN)))
+print(color("				--------------",(CYAN))+color("Social Media",(WHITE))+color("---------------",(CYAN)))
+print(color("				|                                       |",(CYAN)))
+print(color("				|",(CYAN))+color("  https://discord.gg/alx-segmasec      ",(ORANGE))+color("|",(CYAN)))
+print(color("				|",(CYAN))+color("  https://github.com/SegmaSec          ",(ORANGE))+color("|",(CYAN)))
+print(color("				|_______________________________________|\n",(CYAN)))
 
 
 def check_subdomain(subdomain, domain, method):
